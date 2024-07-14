@@ -1,0 +1,1 @@
+using azure pipelines & ARGO CD MULTI MICROSERVICE PROJECT
